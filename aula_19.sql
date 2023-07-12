@@ -1,5 +1,3 @@
-select 'Aula 19';
-
 select * from sys.sys_config;
 
 use mysql;
